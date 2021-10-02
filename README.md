@@ -12,6 +12,22 @@ has been provided in journal entries to facilitate conversion to other game syst
 This outpost could be located anywhere, but on Hârn the most likely locations would be
 Orbaal or Kaldor.
 
+# Maps
+
+The original maps from this work have been used as inspiration, and new maps have been
+designed specifically to meet the requirements of the VTT environment.  The following
+maps are part of this module.
+
+## Khuzdul Outpost
+
+First level.
+
+<img src="assets/scenes/ko1.webp" alt="Khuzdul Outpost First Level" width="600"/>
+
+Second level.
+
+<img src="assets/scenes/ko2.webp" alt="Khuzdul Outpost Second Level" width="600"/>
+
 # Credits
 
 This module is made possible by the hard work of HârnWorld fans,
