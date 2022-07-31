@@ -1,46 +1,54 @@
 {
-  "name": "hm-loc-ko",
+  "id": "hm-loc-ko",
   "title": "Khuzdul Outpost",
   "description": "A Khuzdul (Dwarven) Abandoned Outpost",
-  "version": "1.1.0",
-  "minimumCoreVersion": "0.8.6",
-  "compatibleCoreVersion": "0.8.9",
+  "version": "1.2.0",
   "bugs": "https://github.com/toastygm/hm-loc-ko/issues",
   "license": "LICENSE",
   "readme": "README.md",
   "authors": [
     {
       "name": "Toasty",
-      "discord": "toasty#8538"
+      "discord": "toasty#8538",
+      "flags": {}
     }
   ],
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10"
+  },
   "scripts": [
-    "./scripts/init.js"
+    "scripts/init.js"
   ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "scene-packer",
+        "type": "module",
+        "manifest": "https://raw.githubusercontent.com/League-of-Foundry-Developers/scene-packer/master/module.json",
+        "compatibility": {}
+      }
+    ]
+  },
   "packs": [
     {
-      "entity": "Scene",
-      "label": "Khuzdul Outpost - Scenes",
+      "label": "Khuzdul Outpost Scenes",
       "name": "scenes",
-      "path": "packs/scenes.db"
+      "path": "packs/scenes.db",
+      "type": "Scene",
+      "flags": {}
     },
     {
-      "entity": "JournalEntry",
-      "label": "Khuzdul Outpost - Journals",
+      "label": "Khuzdul Outpost Journals",
       "name": "journals",
-      "path": "packs/journals.db"
-    }
-  ],
-  "dependencies": [
-    {
-      "name": "scene-packer",
-      "manifest": "https://raw.githubusercontent.com/League-of-Foundry-Developers/scene-packer/master/module.json",
-      "type": "module"
+      "path": "packs/journals.db",
+      "type": "JournalEntry",
+      "flags": {}
     }
   ],
   "url": "https://github.com/toastygm/hm-loc-ko/",
   "manifest": "https://github.com/toastygm/hm-loc-ko/releases/latest/download/module.json",
-  "download": "https://github.com/toastygm/hm-loc-ko/releases/latest/download/module.zip",
+  "download": "https://github.com/toastygm/hm-loc-ko/releases/v1.2.0/download/module.zip",
   "flags": {
     "allowBugReporter": true
   }
