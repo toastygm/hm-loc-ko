@@ -1,0 +1,76 @@
+{
+  "name": "Khuzdul Outpost",
+  "pages": [
+    {
+      "name": "Credits",
+      "type": "text",
+      "text": {
+        "content": "<p>This module is made possible by the hard work of HârnWorld fans, and is provided at no cost. This work is an adaptation of the article <a href=\"https://www.lythia.com/harnworld/settlements/khuzan-outpost/\">Khuzan Outpost</a> available at the HârnWorld fan site <a href=\"https://www.lythia.com/\">Lythia.com</a>.</p>\n<p> </p>\n<p><strong>Writer: </strong>Kerry Mould</p>\n<p><strong>Original Maps: </strong>Thomas Shook</p>\n<p><strong>Converted to Foundry VTT: </strong>Tom Rodriguez</p>\n<p>This module is \"<a href=\"https://www.lythia.com/about/publishing-fan-written-material/\">Fanon</a>\", a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.</p>\n<p> </p>\n<p>Some assets used to create the maps in this module are from <a href=\"https://www.forgotten-adventures.net/\">Forgotton Adventures</a>.</p>",
+        "format": 1
+      },
+      "_id": "yk8llDFP6FmSa6vy",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!xfF2FygqNWGzf9uc.yk8llDFP6FmSa6vy"
+    },
+    {
+      "name": "Overview",
+      "type": "text",
+      "text": {
+        "content": "<p>Khuzdul Outpost is a \"Location Module\"; It is designed to depict a long-abandoned Khuzdul (Dwarven) outpost located on the island of Hârn in the <a href=\"https://columbiagames.com/harnworld/\">HârnWorld fantasy setting</a>; however, location could be adapted to exist anywhere in any fantasy setting.</p>\n<p>This module is based on the \"<a href=\"https://www.lythia.com/harnworld/settlements/khuzan-outpost/\">Khuzan Outpost</a>\" fanon; please see @UUID[JournalEntry.xfF2FygqNWGzf9uc.JournalEntryPage.yk8llDFP6FmSa6vy]{Credits} for more information.</p>\n<p>On Hârn, this outpost could be located anywhere, but the most likely locations are Kaldor or Orbaal.</p>\n<p> </p>\n<h2>Using this module with Non-HârnMaster systems</h2>\n<p>This entire module is system-agnostic.</p>\n<p> </p>\n<h2>Using the Scenes</h2>\n<p>The scenes depict a two-level outpost located in a wilderness area.</p>\n<h3>Map Notes</h3>\n<p>The scenes make extensive use of Map Notes to provide detailed description of important areas in the scenes. To view these map notes, click on the \"bookmark icon\" in the canvas toolbar. Map notes are not visible to players, only to the GM.</p>\n<h3>Stairs</h3>\n<p>Some stairs may have an arrow indicating the direction the stairs descend. When present these arrows are visible to all players.</p>\n<h3>Lighting</h3>\n<p>The outpost is a long abandoned ruin.  Throughout the ruin are old rusted candle lamps; the candles have long ago melted away, and there is no light within the outpost. Lights have been placed for GM convenience, but these have been disabled by default. Right click on the lights to enable them if you desire. The fireplaces are likewise cold; you may activate the lights if a fire is started in them.</p>\n<p>Lights have been placed in outdoor areas to simulate sunlight. These lights have been set to enable when the \"darkness\" setting is ≤ 0.8, that is, during the day.</p>\n<p> </p>\n<h2>Recommended Modules</h2>\n<p>The following modules, although not required, are highly recommended to enhance this module:</p>\n<p><strong>Compendium Folders: </strong>Due to the large number of journal entries in this module, these journal entries have been organized into sub-folders using Compendium Folders. If Compendium Folders is not used, these will all show up as a single long list of Journal Entries in the compendium. As long as you follow the links starting with the Overview journal entry, it should not be necessary to navigate the compendium, but if you want to navigate through the Journal Entries yourself, having Compendium Folders will greately simplify this task.</p>\n<p><strong>Backgroundless Pins:</strong> The map note icons all have a dark grey background; with this module, that background disappears. This may increase your enjoyment of the maps.</p>\n<p> </p>\n<h2>Introduction</h2>\n<p><strong>Location: </strong>Somewhere on Hârn<br /><strong>Holder: </strong>Abandoned</p>\n<p>This outpost could be located anywhere at the discretion of the GM. The best place would be just off a major trade route (modern trade routes follow ancient Khuzdul highways) or in a river valley (where the game would have been plentiful). Due to the age of the outpost, it could easily be located in the heart of a modern kingdom or deep in the wilderness. The only location requirements are an outcrop of limestone and a forty-foot cliff face.</p>\n<p> </p>\n<h2>History</h2>\n<p>Abandoned for over 1000 years, the fact that this outpost is still intact is a testament to the skill of its builders. A hunting lodge and way station, this small underground site was tunnelled out of the face of a hard blue limestone cliff during the Codominium era. It once housed 8-10 Khuzdul hunter-gatherers who used it as a base from which to collect and preserve food to supply to the large cities of Azadmere and Kiraz. After the Battle of Sorrows, it was decided that the outpost was too isolated and vulnerable, so everything of value was removed and the site was sealed for possible future use. The location of the site and floor plans are kept in the Royal Archive in Azadmere. No one has looked at them in several hundred years.</p>\n<section class=\"highlight\">\n<p>NOTE: The outpost is an ancient ruin, abandoned for over 1000 years.  All wooden furniture has long since crumbled and lies in unusable ruins, and valuables were removed when the outpost was abandoned.</p>\n</section>\n<p> </p>\n<h2>Outpost</h2>\n<p>The outpost was always well concealed. Carefully crafted and balanced stone doors conceal the main entrance and the backdoor. The four crossbow loops overlooking the area in front of the main door were designed to look like simple cracks in the cliff face. When not in use, each loop has a stone shutter, which matches the surrounding cliff face and makes it very difficult to spot. Before departing, the Khuzdul dismantled the two chimneys, which once stood on the top of the cliff, and covered the holes with large heavy boulders.</p>\n<p>The maps show the furnishings as they appeared in Codominium times. When the Khuzdul left, they removed all portable furniture and whatever wood remained has long since crumbled to dust. Although the Khuzdul produce the best steel on Hârn, even their work cannot withstand millennia without maintenance. All hinges, bolts and strapping are covered with a thick layer of rust and are badly weakened. The doors are made with bronze covered oak. The bronze has turned a deep green and the oak has slowly rotted away in the damp. A solid shove with cause them to collapse. The chimneys are only one foot in diameter and were drilled from the top down. Six inches below the surface, a grill of one-inch thick enamelled steel alloy bars secures the chimneys. Whether by enchantment or virtue of their special coating, these grills are rust free.</p>\n<p>The facility was well located and constructed with great care and skill. There has been very little shifting over the centuries, so the walls and ceilings are still in good condition. Several narrow shafts in the ceiling lead out to the downwind side of the cliff where the low pressure naturally draws the air out. When there is a strong breeze the shafts create a whistling or moaning sound, which can be quite eerie. Despite being closed for a thousand years, the air in the outpost is relatively fresh. Located above the waterline, the entire outpost has a slight slope from the furthest point (the staircase) down to the main entrance. Any water that does penetrate the rock naturally flows down to small drains and out of the rooms. These drains and airshafts have allowed insects and small mammals access to the outpost over the years. A millennia of nests, droppings and food debris litter the floor.</p>\n<p><strong>Lower Level</strong></p>\n<ul>\n<li>@UUID[JournalEntry.9H5NPW4m1sFSvHWM.JournalEntryPage.tiQiVh65ZD9DhEYg]{[1] Courtyard}</li>\n<li>@UUID[JournalEntry.9H5NPW4m1sFSvHWM.JournalEntryPage.jO37Hoyfph1Tevin]{[2] Stone Door}</li>\n<li>@UUID[JournalEntry.9H5NPW4m1sFSvHWM.JournalEntryPage.WoqQra0wBYiZ0Nbw]{[3] Portcullis}</li>\n<li>@UUID[JournalEntry.9H5NPW4m1sFSvHWM.JournalEntryPage.cOAH2L0HoxBHNxue]{[4] Storeroom}</li>\n<li>@UUID[JournalEntry.9H5NPW4m1sFSvHWM.JournalEntryPage.SGjgMqKJcl94PmDh]{[5] Mule Stable}</li>\n<li>@UUID[JournalEntry.9H5NPW4m1sFSvHWM.JournalEntryPage.Yoz1SZZ42INiHFQV]{[6] Main Hall}</li>\n<li>@UUID[JournalEntry.9H5NPW4m1sFSvHWM.JournalEntryPage.Bhfc0eUMcRUxOVbD]{[7] Dormitory}</li>\n<li>@UUID[JournalEntry.9H5NPW4m1sFSvHWM.JournalEntryPage.6nL1NenCLda8x2tb]{[8] Private Quarters}</li>\n<li>@UUID[JournalEntry.9H5NPW4m1sFSvHWM.JournalEntryPage.xGiu9fA5UDDl9U5s]{[9] Staircase}</li>\n<li>@UUID[JournalEntry.9H5NPW4m1sFSvHWM.JournalEntryPage.cQY1CS8rgYGKYuMs]{[10] Well}</li>\n<li>@UUID[JournalEntry.9H5NPW4m1sFSvHWM.JournalEntryPage.TLtdkMuWEy1qaMUy]{[11] Kitchen}</li>\n<li>@UUID[JournalEntry.9H5NPW4m1sFSvHWM.JournalEntryPage.Z68hkDK17Co3vcS1]{[12] Pantry}</li>\n<li>@UUID[JournalEntry.9H5NPW4m1sFSvHWM.JournalEntryPage.PxMW5fCQudoIh7WO]{[13] Privy}</li>\n</ul>\n<p> </p>\n<p><strong>Upper Level</strong></p>\n<ul>\n<li>@UUID[JournalEntry.JAFp8X2wP9LZs6yK.JournalEntryPage.JmsGmuk8vNjaXARs]{[14] Escape Ladder}</li>\n<li>@UUID[JournalEntry.JAFp8X2wP9LZs6yK.JournalEntryPage.LQ21W24wBgR58G4d]{[15] Guard Room}</li>\n<li>@UUID[JournalEntry.JAFp8X2wP9LZs6yK.JournalEntryPage.sCjd8ltDHPKGTfpa]{[16] Crossbow Gallery}</li>\n</ul>\n<p> </p>\n<h2>Postscript</h2>\n<p>Naturally, if the PCs discover the outpost, they may want to claim it for their own. Although it is a powerful little fortress, it is in need of repairs to make it fully serviceable again. Unless the PCs are craftsmen, they will have to bring in specialists (blacksmiths, carpenters, masons, etc) to do the repairs. How will they get them there without giving away the location? Replacing the doors, hinges, bolts, winches and furniture will be an expensive proposition, allowing the GM to siphon off excess PC cash and raise awkward questions with the authorities. Transporting a large winch to the outpost could be a challenge.</p>\n<p>Unless they plan to leave it unguarded while they are off adventuring, the PCs will need to hire NPC retainers to protect the outpost in their absence. This is another way to drain off excess cash. There is also the potential for treachery, if the NPCs think they can get away with it. The PCs might arrive at their hideout with gargun in hot pursuit only to find the doors barred and demands for an immediate pay raise posted.</p>\n<p>If the PCs don’t want to repair the outpost or live there full time, there is always the possibility of using it as a treasure cache. The backdoor is functional, so the PCs can use the outpost to stash their excess wealth, equipment and/or belongings. However, the outpost may be in the territory of gargun, barbarians, brigands and/or the feudal authorities. The more times the PCs visit the outpost the greater the chance that they will be seen. They may come back to find their treasure stolen and their hideout occupied by someone else!</p>\n<p> </p>\n<h2>Adventure Hooks</h2>\n<h3>Agents of the King</h3>\n<p>After 1000 years, the King of Azadmere has decided he needs to re-establish a presence in this area to monitor human and/or gargun activities. A Khuzdul huscarl is dispatched. Because of the distance and/or location of the outpost, he hires the PCs to help him find the site. He has an ancient map and the final report from the last Khuzdul to inhabit the outpost.</p>\n<h3>Villain’s Lair</h3>\n<p>The PCs have been pursuing a NPC for many months. At last, they have tracked him to his secret hideout. The villain has had time to conduct some repairs to the lair, but not all. The amount and quality of the repairs and the number of henchmen is up to the GM.</p>\n<h3>Tomb Raider</h3>\n<p>Jarin tribesmen discovered the outpost 500 years ago and used it to bury several chiefs. Most items have rotted away, but some gold and/or special items have survived. A serf from a nearby manor discovered it while collecting bird eggs from the cliff. He was arrested trying to sell a gold medallion. The PCs are sent to retrieve the treasure for the crown. One problem, the hunter claims the tomb is haunted, by a ghost!</p>\n<p> </p>",
+        "format": 1
+      },
+      "_id": "JwceO66rulqHrXtU",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": -100000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!xfF2FygqNWGzf9uc.JwceO66rulqHrXtU"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659204671766,
+    "modifiedTime": 1659204671766,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "_id": "xfF2FygqNWGzf9uc",
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!journal!xfF2FygqNWGzf9uc"
+}

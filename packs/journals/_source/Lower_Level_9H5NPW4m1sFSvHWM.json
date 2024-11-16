@@ -1,0 +1,373 @@
+{
+  "name": "Lower Level",
+  "pages": [
+    {
+      "name": "[1] Courtyard",
+      "type": "text",
+      "text": {
+        "content": "<p>The entrance to the outpost is located at the base of a 40-foot tall cliff face. The natural alcove in the cliff, which was easy to fence, served as a pen for the Khuzdul’s string of pack mules. Since the site was abandoned, this area has been overgrown with trees, burned down by forest fires and grown over again. Eleven hundred years of winter, wind, water and weather have completed the masterful concealment job started by the Khuzdul. Sheltered from the wind and rain, the courtyard makes an excellent campsite.</p>",
+        "format": 1
+      },
+      "_id": "tiQiVh65ZD9DhEYg",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!9H5NPW4m1sFSvHWM.tiQiVh65ZD9DhEYg"
+    },
+    {
+      "name": "[2] Stone Door",
+      "type": "text",
+      "text": {
+        "content": "<p>Cut from the face of the cliff, this door perfectly matches its surroundings. Closed and barred from the inside by the departing dwarves, the hinges and bolt are badly rusted. Due to the shear weight of the door, it would take the combined strength of ten men to force it open from the inside. Once open, the hinges will need to be replaced before it can be fully closed again. Although cut from natural limestone, the stone appears to have been changed to pseudo-stone, possibly by the Earthmaster device from Kiraz. It would take considerable force (at least a battering ram) to break down the door, assuming the correct place on the cliff wall could be determined. During Codominium times, this door was often left open during the day.</p>",
+        "format": 1
+      },
+      "_id": "jO37Hoyfph1Tevin",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!9H5NPW4m1sFSvHWM.jO37Hoyfph1Tevin"
+    },
+    {
+      "name": "[3] Portcullis",
+      "type": "text",
+      "text": {
+        "content": "<p>The outer door leads into a short entry shaft blocked by a portcullis. The solid steel alloy grill is coated with some sort of enamelling (like the grills protecting the chimneys). It is tarnished but not rusted and the core of the metal is still solid. Although not locked in place, it weighs over a ton and will be extremely difficult and awkward to lift. The portcullis is overlooked by crossbow loops on both sides and a murder hole above.</p>",
+        "format": 1
+      },
+      "_id": "WoqQra0wBYiZ0Nbw",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!9H5NPW4m1sFSvHWM.WoqQra0wBYiZ0Nbw"
+    },
+    {
+      "name": "[4] Storeroom",
+      "type": "text",
+      "text": {
+        "content": "<p>When the outpost was used as a base for hunting and gathering, this room was used to store the preserved game and foodstuffs until a mule train could take them to Kiraz or Azadmere. The room was completely emptied by the departing Khuzdul. There are a few small animal nests in the corners and droppings on the floor around the drain.</p>",
+        "format": 1
+      },
+      "_id": "cOAH2L0HoxBHNxue",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!9H5NPW4m1sFSvHWM.cOAH2L0HoxBHNxue"
+    },
+    {
+      "name": "[5] Mule Stable",
+      "type": "text",
+      "text": {
+        "content": "<p>The Khuzdul used horses and donkeys, but preferred mules for their pack trains. Most of the mules were kept outside in the courtyard, but this room served as a small stable for injured or young animals. The remnants of the wooden dividers, which once separated the stalls, litter the floor.</p>",
+        "format": 1
+      },
+      "_id": "SGjgMqKJcl94PmDh",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!9H5NPW4m1sFSvHWM.SGjgMqKJcl94PmDh"
+    },
+    {
+      "name": "[6] Main Hall",
+      "type": "text",
+      "text": {
+        "content": "<p>Protected by a second murder hole, a heavy door opens into the main hall. Now little more than a bronze shell over the remnants of an oak core, the door will collapse with the slightest push. The hall was once the heart of the outpost, a bright and cheerful place. With the door open, it is light and airy. The large, welldesigned fireplace draws smoke well and throws lots of heat, however the boulder blocking the chimney needs to be removed before it can be used. The room served as a combined lounge, dining hall and work area. Doors lead off all sides of this central room. The departing Khuzdul took the tables and benches, so all that remains are the fireplace and torch brackets.</p>",
+        "format": 1
+      },
+      "_id": "Yoz1SZZ42INiHFQV",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!9H5NPW4m1sFSvHWM.Yoz1SZZ42INiHFQV"
+    },
+    {
+      "name": "[7] Dormitory",
+      "type": "text",
+      "text": {
+        "content": "<p>This small room originally housed eight dwarves on four bunks. It is now empty.</p>",
+        "format": 1
+      },
+      "_id": "Bhfc0eUMcRUxOVbD",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!9H5NPW4m1sFSvHWM.Bhfc0eUMcRUxOVbD"
+    },
+    {
+      "name": "[8] Private Quarters",
+      "type": "text",
+      "text": {
+        "content": "<p>The home of the master of the outpost, this room appears to be empty, however, in the far corner of the room is a loose paving stone. Underneath is a small hole containing a rotten bag with three Khuzan Gold Crowns (value 320d each) and a black mass (once 200 silver pieces). The silver would have to be melted down before it would be useful for trade.</p>",
+        "format": 1
+      },
+      "_id": "6nL1NenCLda8x2tb",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!9H5NPW4m1sFSvHWM.6nL1NenCLda8x2tb"
+    },
+    {
+      "name": "[9] Staircase",
+      "type": "text",
+      "text": {
+        "content": "<p>A steep spiral staircase, in typical Khuzdul fashion, leads to the upper level.</p>",
+        "format": 1
+      },
+      "_id": "xGiu9fA5UDDl9U5s",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!9H5NPW4m1sFSvHWM.xGiu9fA5UDDl9U5s"
+    },
+    {
+      "name": "[10] Well",
+      "type": "text",
+      "text": {
+        "content": "<p>A shaft cut into the living rock drops forty feet to water level. The original chain rusted through and fell into the well long ago. The winch is rusted solid and useless. The water from this well is clear, cold and sweet. Fed by an underground aquifer, it has never run dry.</p>",
+        "format": 1
+      },
+      "_id": "cQY1CS8rgYGKYuMs",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!9H5NPW4m1sFSvHWM.cQY1CS8rgYGKYuMs"
+    },
+    {
+      "name": "[11] Kitchen",
+      "type": "text",
+      "text": {
+        "content": "<p>A large fireplace with a bake oven on one side suggests that this room was once the kitchen. It was much larger than required for 10 dwarves because it was also used as a work area to butcher animals and preserve gathered foods. The smoke hood is exceptionally tall, with several hooks inside for hanging meat to smoke; its chimney is also blocked. The only remaining furniture is a marble cutting block, scored with hundreds of knife cuts.</p>",
+        "format": 1
+      },
+      "_id": "TLtdkMuWEy1qaMUy",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!9H5NPW4m1sFSvHWM.TLtdkMuWEy1qaMUy"
+    },
+    {
+      "name": "[12] Pantry",
+      "type": "text",
+      "text": {
+        "content": "<p>This small room was used to store the dayto-day food for the inhabitants (as opposed to the food packed for shipment). It is empty.</p>",
+        "format": 1
+      },
+      "_id": "Z68hkDK17Co3vcS1",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!9H5NPW4m1sFSvHWM.Z68hkDK17Co3vcS1"
+    },
+    {
+      "name": "[13] Privy",
+      "type": "text",
+      "text": {
+        "content": "<p>This peculiar little room has a low bench with a hole in it. Under the bench, in line with the hole, there is a circular depression in the floor. The Khuzdul used the room as their toilet. A large chamber pot would be slid under the shelf and rest in the circular depression. When it was full, it would be carried outside and the contents disposed of.</p>",
+        "format": 1
+      },
+      "_id": "PxMW5fCQudoIh7WO",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!9H5NPW4m1sFSvHWM.PxMW5fCQudoIh7WO"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659204671750,
+    "modifiedTime": 1659204671750,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "_id": "9H5NPW4m1sFSvHWM",
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!journal!9H5NPW4m1sFSvHWM"
+}

@@ -1,0 +1,103 @@
+{
+  "name": "Upper Level",
+  "pages": [
+    {
+      "name": "[14] Escape Ladder",
+      "type": "text",
+      "text": {
+        "content": "<p>The once sturdy door guarding the escape hatch has completely rotted through and collapsed into a pile of green bronze sheeting. Inside the shaft, a ladder, consisting of iron rungs sunk into the living stone, leads to the surface. It allowed the occupants to escape if the front entrance was blocked or watched. The rungs are rusted through and will snap if any amount of weight is put on them. At the top of the ladder is a stone hatch made of pseudo-stone (like the main entrance). Tapered, the round hatch wedges tightly in the hole without hinges. There is a one-foot wide ledge around the shaft four feet below the hatch. A user stands astride the shaft on the ledge and lifts the hatch with his back. The top of the hatch blends perfectly into the surrounding rock. When the dwarves sealed the site, they departed via this exit, so they were unable to extend the three bolts that normally secure the hatch in place; instead they rolled a large boulder over top of it. It will take at least four strong men to remove the boulder. Then, they will have to find the edges of the hatch and pry it up. Explorers will need a rope to descend to the floor of the 23-foot deep shaft.</p>",
+        "format": 1
+      },
+      "_id": "JmsGmuk8vNjaXARs",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!JAFp8X2wP9LZs6yK.JmsGmuk8vNjaXARs"
+    },
+    {
+      "name": "[15] Guard Room",
+      "type": "text",
+      "text": {
+        "content": "<p>Located directly above the main entrance, this room has two murder holes, one in front of portcullis and one in front of the door to the hall. They were used for firing crossbows, dropping rocks or pouring boiling water on attackers below. The portcullis was raised through a slot by chains, which passed over pulleys to the winch at the back of the room. The chains have long since turned to dust and the winch and pulleys are rusted solid. If the winch, pulleys and chains were replaced, the portcullis would be usable again. A dozen small boulders, for dropping on attackers, are stacked in the corner. Buried underneath, long forgotten, is the blade of a fine Khuzdul dagger. The hilt has rotted away, but the blade is solid and rust free. It may or may not be enchanted (at the GM’s discretion).</p>",
+        "format": 1
+      },
+      "_id": "LQ21W24wBgR58G4d",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!JAFp8X2wP9LZs6yK.LQ21W24wBgR58G4d"
+    },
+    {
+      "name": "[16] Crossbow Gallery",
+      "type": "text",
+      "text": {
+        "content": "<p>A corridor wraps around the cliff giving access to four crossbow loops. The two centre loops look directly forward, but can only see people who are at least 10 feet away from the base of the cliff. The side loopholes can see the base of the cliff in front of the door, providing a deadly crossfire to rake attackers. Each loop is covered with a pseudo-stone shutter fixed with hinges and a bolt; the shutters are in perfect condition, but all of the fittings are completely rusted through. They are only held in place by their own weight and inertia.</p>",
+        "format": 1
+      },
+      "_id": "sCjd8ltDHPKGTfpa",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!JAFp8X2wP9LZs6yK.sCjd8ltDHPKGTfpa"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659204671756,
+    "modifiedTime": 1659204671756,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "_id": "JAFp8X2wP9LZs6yK",
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!journal!JAFp8X2wP9LZs6yK"
+}
