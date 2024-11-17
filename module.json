@@ -2,7 +2,7 @@
   "id": "hm-loc-ko",
   "title": "Khuzdul Outpost",
   "description": "A Khuzdul (Dwarven) Abandoned Outpost",
-  "version": "1.3.0",
+  "version": "1.3.1",
   "bugs": "https://github.com/toastygm/hm-loc-ko/issues",
   "license": "LICENSE",
   "readme": "README.md",
@@ -30,9 +30,19 @@
       }
     ]
   },
+  "packFolders": [
+    {
+      "name": "Khuzdul Outpost",
+      "sorting": "m",
+      "packs": [
+        "scenes",
+        "journals"
+      ]
+    }
+  ],
   "packs": [
     {
-      "label": "Khuzdul Outpost Scenes",
+      "label": "Scenes",
       "name": "scenes",
       "path": "packs/scenes",
       "type": "Scene",
@@ -43,7 +53,7 @@
       }
     },
     {
-      "label": "Khuzdul Outpost Journals",
+      "label": "Journals",
       "name": "journals",
       "path": "packs/journals",
       "type": "JournalEntry",
@@ -56,7 +66,7 @@
   ],
   "url": "https://github.com/toastygm/hm-loc-ko/",
   "manifest": "https://github.com/toastygm/hm-loc-ko/releases/latest/download/module.json",
-  "download": "https://github.com/toastygm/hm-loc-ko/releases/download/v1.3.0/module.zip",
+  "download": "https://github.com/toastygm/hm-loc-ko/releases/download/v1.3.1/module.zip",
   "flags": {
     "allowBugReporter": true
   }
